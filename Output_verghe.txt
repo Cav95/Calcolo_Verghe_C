@@ -1,0 +1,156 @@
+
+Tagli verga 6000
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 1776 
+50x50 sp3 L = 350 
+50x50 sp3 L = 350 
+50x50 sp3 L = 350 
+50x50 sp3 L = 350 
+Resto = 19
+
+Tagli verga 6000
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 1776 
+50x50 sp3 L = 1776 
+50x50 sp3 L = 350 
+Resto = 58
+
+Tagli verga 6000
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 255 
+50x50 sp3 L = 1776 
+50x50 sp3 L = 1776 
+50x50 sp3 L = 350 
+Resto = 1078
+Numero verghe (TBQ05023)= 3
+
+Tagli verga 6000
+130x130 sp3 L = 300 
+130x130 sp3 L = 300 
+130x130 sp3 L = 300 
+130x130 sp3 L = 1700 
+130x130 sp3 L = 1700 
+130x130 sp3 L = 1700 
+Resto = 0
+
+Tagli verga 6000
+130x130 sp3 L = 300 
+130x130 sp3 L = 1700 
+130x130 sp3 L = 1700 
+130x130 sp3 L = 1700 
+Resto = 600
+Numero verghe (TBQ13023)= 2
+
+Tagli verga 6000
+140x140 sp3 L = 1700 
+140x140 sp3 L = 1700 
+140x140 sp3 L = 1700 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+Resto = 60
+
+Tagli verga 6000
+140x140 sp3 L = 1700 
+140x140 sp3 L = 1700 
+140x140 sp3 L = 1700 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+Resto = 60
+
+Tagli verga 6000
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+140x140 sp3 L = 140 
+Resto = 4460
+
+Tagli verga 6000
+140x140 sp3 L = 140 
+Resto = 5860
+Numero verghe (TBQ14023)= 4
+
+Tagli verga 6000
+150x150 sp3 L = 1700 
+150x150 sp3 L = 1700 
+150x150 sp3 L = 1700 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+Resto = 0
+
+Tagli verga 6000
+150x150 sp3 L = 2950 
+150x150 sp3 L = 1700 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+Resto = 0
+
+Tagli verga 6000
+150x150 sp3 L = 1700 
+150x150 sp3 L = 1700 
+150x150 sp3 L = 1700 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+Resto = 0
+
+Tagli verga 6000
+150x150 sp3 L = 2950 
+150x150 sp3 L = 2950 
+Resto = 100
+
+Tagli verga 6000
+150x150 sp3 L = 2950 
+150x150 sp3 L = 1700 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+150x150 sp3 L = 150 
+Resto = 900
+Numero verghe (TBQ15023)= 5

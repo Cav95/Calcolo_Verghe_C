@@ -1,0 +1,4 @@
+﻿  Verghe.c
+C:\Users\mcavina\OneDrive - CEPI s.p.a\Desktop\Utili\Calcolo Verghe\Calcolo Verghe STX\Calcolo Verghe STX\Verghe.c(300,11): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  LINK : C:\Users\mcavina\OneDrive - CEPI s.p.a\Desktop\Utili\Calcolo Verghe\Calcolo Verghe STX\x64\Debug\Calcolo Verghe STX.exe non trovato o non compilato dall'ultimo collegamento incrementale; verrà eseguito il collegamento completo
+  Calcolo Verghe STX.vcxproj -> C:\Users\mcavina\OneDrive - CEPI s.p.a\Desktop\Utili\Calcolo Verghe\Calcolo Verghe STX\x64\Debug\Calcolo Verghe STX.exe
